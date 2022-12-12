@@ -18,7 +18,7 @@ Tellinux is a Linux based telnet
 
 ***
 
-# How to make a site
+## How to make a site
 1. First make a GitHub repository named "tellinux-site"
 
 2. If you haven't already, make a file and name it "README.md"
